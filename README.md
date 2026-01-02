@@ -1,4 +1,4 @@
-# three.js Earth
+# Earth Moon (using three.js)
 
 A Pen created on CodePen.
 
